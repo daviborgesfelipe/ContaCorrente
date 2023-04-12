@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace ContaCorrente.ConsoleApp
 {
-    internal class Movimentacao
+    internal class ContaCorrenteServico
     {
-        public string Informacao { get; set; }
-
-        public Movimentacao()
-        {
-            
-        }
     }
 }
